@@ -11,9 +11,12 @@
   src: url(assets/Southam.otf);
 }
 
+html {
+  scroll-behavior: smooth;
+}
+
 body {
   background-color: #161513;
-  scroll-behavior: smooth;
 }
 
 /* HEADER */
